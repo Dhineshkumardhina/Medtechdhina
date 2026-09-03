@@ -1,0 +1,6 @@
+{
+  "name": "EduHealth Connect",
+  "description": "AI-powered, offline-first health and education platform connecting students, parents, teachers, and doctors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

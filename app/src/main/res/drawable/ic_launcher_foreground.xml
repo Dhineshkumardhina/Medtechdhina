@@ -1,0 +1,22 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Outer Shield / Protection Silhouette -->
+    <path
+        android:fillColor="#E0F7FA"
+        android:pathData="M54,22 C40,22 32,27 32,27 L32,54 C32,71 45,82 54,86 C63,82 76,71 76,54 L76,27 C76,27 68,22 54,22 Z" />
+    <!-- Medical Cross -->
+    <path
+        android:fillColor="#006972"
+        android:pathData="M50,34 L58,34 L58,45 L69,45 L69,53 L58,53 L58,64 L50,64 L50,53 L39,53 L39,45 L50,45 Z" />
+    <!-- Heartbeat / Growth line accent at bottom -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#FFB74D"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M43,72 L48,72 L51,68 L54,76 L57,70 L60,72 L65,72" />
+</vector>
